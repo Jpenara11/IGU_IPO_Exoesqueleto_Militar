@@ -68,19 +68,29 @@ namespace IPO_IGU
 
         void OnTimedEvent3(Object source, System.Timers.ElapsedEventArgs e)
         {
-            if (contador == 0)
-            {
-                
                 logout.Play();
                 contador++;
 
                 this.Dispatcher.Invoke(() =>
                 {
                     Teniente.Visibility = Visibility.Visible;
+                    Modo2.Content = "Normal";
+                    Soldado.Visibility = Visibility.Hidden;
+                    Mirilla.Visibility = Visibility.Hidden;
+                    Facial.Visibility = Visibility.Hidden;
+                    Reconocimiento.Visibility = Visibility.Hidden;
+                    Descripcion.Visibility = Visibility.Hidden;
+                    Radar.Visibility = Visibility.Hidden;
+                    Distancia.Visibility = Visibility.Hidden;
+                    Metros.Visibility = Visibility.Hidden;
+                    Probabilidad.Visibility = Visibility.Hidden;
+                    Porcentaje.Visibility = Visibility.Hidden;
+                    Mapa.Visibility = Visibility.Hidden;
+                    Flecha.Visibility = Visibility.Hidden;
+                    Vision.Visibility = Visibility.Hidden;
+                    Termometro.Visibility = Visibility.Hidden;
+                    Constantes.Visibility = Visibility.Hidden;
                 });
-
-                
-            }
         }
 
         void voz_Speech(object sender, System.Speech.Recognition.SpeechRecognizedEventArgs e)
