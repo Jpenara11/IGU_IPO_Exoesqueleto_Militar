@@ -1,0 +1,15 @@
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\bin\Debug\IPO_IGU.exe.config
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\bin\Debug\IPO_IGU.exe
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\bin\Debug\IPO_IGU.pdb
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.csprojAssemblyReference.cache
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\MainWindow.g.cs
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\App.g.cs
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU_MarkupCompile.cache
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU_MarkupCompile.lref
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\MainWindow.baml
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.g.resources
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.Properties.Resources.resources
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.csproj.GenerateResource.cache
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.csproj.CoreCompileInputs.cache
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.exe
+C:\Users\Jpenara\Desktop\IPO_INTERFAZ\IPO_IGU\obj\Debug\IPO_IGU.pdb
