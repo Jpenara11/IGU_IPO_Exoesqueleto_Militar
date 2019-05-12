@@ -5,8 +5,8 @@ COMANDOS DE VOZ:
 + Reconocimiento: Para entrar en el modo reconocimiento facial<br />
 + Infrarrojos: Para entrar en el modo infrarrojos<br />
 + Navegación: Para entrar en el modo navegación y GPS<br />
-+ Constantes: Para entrar en el modo constantes vitales<br />
-+ Coger: Para coger la llamada telefónica entrante<br />
++ Vitales: Para entrar en el modo constantes vitales<br />
++ Aceptar: Para coger la llamada telefónica entrante<br />
 + Rechazar: Para rechazar la llamada telefónica entrante<br />
 
 CONTROLES:

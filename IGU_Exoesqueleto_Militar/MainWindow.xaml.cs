@@ -191,7 +191,7 @@ namespace IPO_IGU
                         Termometro.Visibility = Visibility.Hidden;
                         Constantes.Visibility = Visibility.Hidden;
                     }
-                    else if (word.Text.Equals("constantes"))
+                    else if (word.Text.Equals("vitales"))
                     {
                         Modo2.Content = "Constantes Vitales";
                         Soldado.Visibility = Visibility.Hidden;
@@ -210,7 +210,7 @@ namespace IPO_IGU
                         Vision.Visibility = Visibility.Hidden;
                         Termometro.Visibility = Visibility.Hidden;
                     }
-                    else if (word.Text.Equals("coger"))
+                    else if (word.Text.Equals("aceptar"))
                     {
                         TenienteCogida.Visibility = Visibility.Visible;
                         Teniente.Visibility = Visibility.Hidden;
